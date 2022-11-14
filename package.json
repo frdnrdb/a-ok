@@ -1,11 +1,13 @@
 {
-  "name": "lesst",
+  "name": "a-ok",
   "version": "1.0.0",
-  "description": "Minimalist Node.js test runner",
+  "description": "Minimal Node.js test runner",
   "main": "index.js",
   "type": "module",
-  "keywords": ["test", "runner", "testing", "simple", "minimalist"],
+  "keywords": ["test", "runner", "testing", "simple", "minimal"],
   "author": "frdnrdb",
+  "repository": "frdnrdb/a-ok",
+  "homepage": "https://github.com/frdnrdb/a-ok/",
   "license": "ISC",
   "scripts": {
     "test": "node test.js"

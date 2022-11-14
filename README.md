@@ -1,4 +1,4 @@
-# lesst
+# a-ok
 
 > if you run node > 19 use [`node:test`](https://nodejs.org/api/test.html)
 
@@ -8,7 +8,7 @@
 - use [ava](https://github.com/avajs/ava) for heavier testing
 
 ```js
-import test from 'lesst'
+import test from 'a-ok'
 
 // default assertion: strictEqual
 test('the function returns what we expect', theFunction(), 'what we expect')
