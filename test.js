@@ -1,9 +1,9 @@
 import test from './index.js'
 
-test.group('a-ok')
+test.group('retset')
 
 test.label('essentials')
-test('a-ok is a function', typeof test, 'function')
+test('retset is a function', typeof test, 'function')
 test('2 seconds async', () => new Promise(r => setTimeout(r, 2000)), undefined)
 test.skip(`skip test.fail example`, 1, 0, 'with some commentary')
 
