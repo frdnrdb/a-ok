@@ -30,4 +30,4 @@ test.group('level-1')
 test.label('level-2')
 ```
 
-![screenshot](readme.png)
+![screenshot](https://github.com/frdnrdb/a-ok/raw/main/readme.png)
