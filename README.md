@@ -7,6 +7,10 @@
 - almost no code
 - use [ava](https://github.com/avajs/ava) for heavier testing
 
+```cli
+npm i -D retset
+```
+
 ```js
 import test from 'retset'
 

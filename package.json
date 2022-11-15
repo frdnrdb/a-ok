@@ -1,6 +1,6 @@
 {
   "name": "retset",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Minimal Node.js test runner",
   "main": "index.js",
   "type": "module",
